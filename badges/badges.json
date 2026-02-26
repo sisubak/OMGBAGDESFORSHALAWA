@@ -1,0 +1,26 @@
+{
+	"public": [
+		{
+			"id": "supporter",
+			"name": "Supporter",
+			"icon": "supporter.png"
+		},
+		{
+			"id": "cool",
+			"name": "Cool Guy",
+			"icon": "cool.png"
+		},
+		{
+			"id": "fire",
+			"name": "On Fire",
+			"icon": "fire.png"
+		}
+	],
+	"restricted": [
+		{
+			"id": "verified",
+			"name": "Verified",
+			"icon": "verified.png"
+		}
+	]
+}
