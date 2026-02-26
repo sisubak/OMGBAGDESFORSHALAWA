@@ -1,0 +1,24 @@
+{
+	"badges": [
+		{
+			"id": "dev",
+			"name": "Developer",
+			"icon": "dev.png"
+		},
+		{
+			"id": "vip",
+			"name": "VIP",
+			"icon": "vip.png"
+		},
+		{
+			"id": "supporter",
+			"name": "Supporter",
+			"icon": "supporter.png"
+		}
+	],
+	"players": {
+		"PlayerName1": "dev",
+		"PlayerName2": "vip",
+		"SomeOtherPlayer": "supporter"
+	}
+}
